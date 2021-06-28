@@ -1,4 +1,4 @@
-# A not about creating pods using kubectl run  
+# A note about creating pods using kubectl run  
 
 To create a pod from the command line use the command:  
 
