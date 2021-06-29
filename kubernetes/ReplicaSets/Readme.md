@@ -21,7 +21,7 @@ Ways to scale the number of pods
 
 
 **Note**  <br>
-Using the scale commnad wont change the number of replicas in the definition file
+Using the scale command wont change the number of replicas in the definition file
 
 
 
