@@ -6,9 +6,8 @@ metadata:
     ap p: myapp
     type: front-end
 
-spec:
-  - template:
-      
+spec:  
+  template:    
       metadata:
         name: 
         labels:
@@ -19,8 +18,8 @@ spec:
         - name: nginx-controller
           image: nginx
 
-    replicas: 3
-    selector:
+  replicas: 3
+  selector:
       matchLabels:
         type: front-end
   
